@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyank Choudhary</h1>
 <h3 align="center">Experienced Full-Stack Developer with 3 years of experience crafting responsive, user-friendly websites and web applications. Proficient in frameworks and technologies like Angular, React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, and Bootstrap. Skilled at translating design mockups into fully functional interactive websites. Recognized for delivering visually appealing, mobile-responsive designs that boost engagement and accessibility.</h3>
 
-- 👨‍💻 All of my projects are available at [https://priyank-1111.github.io/Portfolio/](https://priyank-1111.github.io/Portfolio/)
 - 💬 Ask me about **Angular, React, Node.js, Tailwind CSS, Bootstrap**
 - 📫 How to reach me **priyankchoudhary1111@gmail.com**
 - 📱 Phone: **+91 9759411119**
-- 📄 Know about my experiences [https://priyank-1111.github.io/Portfolio/Priyank_Resume.pdf](https://priyank-1111.github.io/Portfolio/Priyank_Resume.pdf)
+- 📄 Know about my experiences [https://buildwithpriyank.vercel.app/Priyank%20Resume.pdf](https://buildwithpriyank.vercel.app/Priyank%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
